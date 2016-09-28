@@ -216,4 +216,3 @@ If you plan ahead to use DI with Symfony have this guideline as reference to hel
 
 
 ##### Jaziel Lopez, Experienced Software Developer, Tijuana Area Mexico, 2016
-
